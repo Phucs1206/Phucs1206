@@ -1,11 +1,11 @@
 - Name : Phan Gia Phúc
 - Date a birth : 12/06/2002
 - Hometown : Tây Ninh
-- Current Address : đường số 14 , Bình Hưng Hòa A, quận Bình Tân , tp. Hồ Chí Minh
+- Current Address : đường số 14 , Bình Hưng Hòa A, quận Bình Tân , TP. Hồ Chí Minh
 - Interest : game , play football
 - Programming language : Python , Java .
 - Libraries and tools : TensorFlow, PyTorch, Keras, Scikitlearn, NumPy, and Pandas
--  Data Processing Skills: Experience in collecting, cleaning,
+- Data Processing Skills: Experience in collecting, cleaning,
 and analyzing data
 - Machine Learning : Classification, Regression.
 - Deep Learning : CNN, RNN, LSTM,YOLO ,NLP.
