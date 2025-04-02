@@ -1,7 +1,7 @@
 - Name : Phan Gia Phúc
-- Both : 12/06/2002
+- Date a birth : 12/06/2002
 - Hometown : Tây Ninh
-- Address : đường số 14 , Bình Hưng Hòa A, quận Bình Tân , tp. Hồ Chí Minh
+- Current Address : đường số 14 , Bình Hưng Hòa A, quận Bình Tân , tp. Hồ Chí Minh
 - Interest : game , play football
 - Programming language : Python , Java .
 - Libraries and tools : TensorFlow, PyTorch, Keras, Scikitlearn, NumPy, and Pandas
